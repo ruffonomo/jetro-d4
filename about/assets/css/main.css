@@ -1,0 +1,137 @@
+h1 {
+  font-family: "Bebas Neue", cursive !important;
+  color: #e8603c;
+  font-size: 50px;
+}
+
+.span-h1 {
+  color: #f3af9d;
+}
+
+.color-principal {
+  color: #e8603c !important;
+}
+
+.color-gris {
+  color: #b9b9b9 !important;
+}
+
+.p-helvetica {
+  font-family: "Nunito Sans", sans-serif !important;
+}
+
+.nav-item:last-child .nav-link {
+  padding-right: 0;
+}
+
+.fa-bars {
+  background-color: #e8603c !important;
+  border-color: #f3af9d !important;
+  color: #fff !important;
+}
+
+.bg-principal {
+  background-color: #e8603c;
+}
+
+.color-blanco {
+  color: #fff !important;
+}
+
+.bg-secundario {
+  background-color: #f3af9d !important;
+}
+
+.h3-bebas {
+  font-family: "Bebas Neue", cursive !important;
+}
+
+.bebas-tittle {
+  font-size: 30px;
+  font-family: "Bebas Neue", cursive;
+}
+
+.bebas-secundary {
+  font-family: "Bebas Neue", cursive;
+}
+
+.background-header {
+  height: 78px;
+  background-color: #f3af9d;
+}
+
+.background-footer {
+  height: 100%;
+  background-color: #f3af9d;
+}
+
+.bebas-ul {
+  font-family: "Bebas Neue", cursive;
+}
+
+.h-bebas {
+  font-family: "Bebas Neue", cursive !important;
+}
+
+.float-left {
+  float: left;
+  padding-right: 25px;
+}
+
+.h-p-size {
+  font-size: 15px;
+  font-family: "Nunito Sans", sans-serif !important;
+}
+
+.h-letra-d {
+  float: left;
+  color: #e8603c;
+  font-family: "Bebas Neue", cursive;
+  font-size: 400%;
+  padding: 3px;
+}
+
+.h-linea-vertical {
+  border-left: thick solid #e8603c;
+  float: left;
+  height: 115px;
+  margin-right: 20px;
+  margin-left: 90px;
+}
+
+.h-p-italic {
+  font-style: italic;
+}
+
+.h-alert-text-green {
+  background-color: #effeb9;
+  color: #add42e;
+  border-color: #98c601;
+  margin-left: 11px;
+}
+
+.h-alert-text-red {
+  background-color: #fbcbc1;
+  color: #ee6a52;
+  border-color: #ee6a52;
+  margin-left: 11px;
+}
+
+.h-alert-text-orange {
+  background-color: #ffe9ad;
+  color: #fab418;
+  border-color: #fab418;
+  margin-left: 11px;
+}
+
+.h-alert-text-blue {
+  background-color: #d1e4f3;
+  color: #5594cd;
+  border-color: #5594cd;
+  margin-left: 11px;
+}
+
+.h-h3-bebas {
+  font-family: "Bebas Neue", cursive !important;
+}
+/*# sourceMappingURL=main.css.map */

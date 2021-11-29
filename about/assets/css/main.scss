@@ -1,0 +1,140 @@
+//variables
+$color-principal: #e8603c;
+$color-secundario: #f3af9d;
+$color-gris: #b9b9b9;
+$color-blanco: #fff;
+$tipografia-jetro: 'Bebas Neue', cursive;
+$tipografia-texto: 'Nunito Sans', sans-serif;
+
+// Estilos Generales
+
+
+// CLASES HEADER 
+
+h1 {
+    font-family: $tipografia-jetro !important;
+    color: $color-principal;
+    font-size:50px;
+}
+.span-h1 {
+    color: $color-secundario;
+}
+.color-principal {
+    color: $color-principal !important;
+}
+.color-gris {
+    color: $color-gris !important;
+}
+.p-helvetica {
+    font-family: $tipografia-texto !important;
+}
+.nav-item:last-child .nav-link{
+    padding-right: 0;
+}
+.fa-bars {
+    background-color: $color-principal !important;
+    border-color: $color-secundario !important;
+    color: $color-blanco !important;
+}
+
+
+
+// CLASES kjaskl
+
+.bg-principal {
+    background-color: $color-principal;
+}
+.color-blanco {
+    color: $color-blanco !important;
+}
+.bg-secundario {
+    background-color: $color-secundario !important;
+}
+
+//kistvnn code//
+
+.h3-bebas {
+    font-family: $tipografia-jetro !important;
+}
+.bebas-tittle {
+    font-size: 30px;
+    font-family: $tipografia-jetro;
+}
+.bebas-secundary {
+    font-family: $tipografia-jetro;
+}
+.background-header {
+    height: 78px;
+    background-color: $color-secundario;
+
+}
+.background-footer {
+    height: 100%;
+    background-color: $color-secundario;
+
+}
+.bebas-ul {
+    font-family: $tipografia-jetro;
+}
+
+
+// reglas hector
+
+.h-bebas {
+    font-family: $tipografia-jetro !important;
+}
+.float-left {
+    float: left;
+    padding-right: 25px;
+}
+.h-p-size {
+    font-size: 15px;
+    font-family: $tipografia-texto !important;
+}
+.h-letra-d {
+    float: left;
+    color: $color-principal;
+    font-family: $tipografia-jetro;
+    font-size: 400%;
+    padding: 3px;
+    
+}
+.h-linea-vertical {
+    border-left: thick solid $color-principal;
+    float: left;
+    height: 115px;
+    margin-right: 20px;
+    margin-left: 90px;
+}
+.h-p-italic {
+    font-style: italic;
+}
+.h-alert-text-green {
+    background-color: #effeb9;
+    color: #add42e;
+    border-color: #98c601;
+    margin-left: 11px;
+}
+.h-alert-text-red {
+    background-color: #fbcbc1;
+    color: #ee6a52;
+    border-color: #ee6a52;
+    margin-left: 11px;
+}
+.h-alert-text-orange {
+    background-color: #ffe9ad;
+    color: #fab418;
+    border-color: #fab418;
+    margin-left: 11px;
+}
+.h-alert-text-blue {
+    background-color: #d1e4f3;
+    color: #5594cd;
+    border-color: #5594cd;
+    margin-left: 11px;
+}
+.h-h3-bebas {
+    font-family: $tipografia-jetro !important;
+}
+
+
